@@ -1,9 +1,10 @@
 # package_statistics
 
 
-To run it:
-
+## To run it:
+```
  docker run -it kaderno/package_statistics <architecture>
+```
 
 Alternatively, you can invoke the python code directly.
 
